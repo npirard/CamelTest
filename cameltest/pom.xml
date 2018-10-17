@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<camel.version>2.16.2</camel.version>
+		<camel.version>2.18.3</camel.version>
 		<junit.version>4.12</junit.version>
 	</properties>
 
